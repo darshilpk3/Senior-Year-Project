@@ -1,0 +1,5 @@
+app = require("application")  
+config = require("config")  
+setup = require("setup")
+mailbox = require("mailbox")
+setup.start()
